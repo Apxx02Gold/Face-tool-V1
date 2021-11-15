@@ -71,7 +71,7 @@ printf "\n\n"
 sleep 1
 
 printf "$M"
-printf "  NOS IMPORTA UNA MIERDA LAS CONVERSACIONES QUE QUIERAS ESPIAR "
+printf "  NOS IMPORTA UNA MIERDA LAS CUENTAS QUE QUIERAS ESPIAR "
 printf "\n"
 printf "  PERO POR FINES LEGALES LE RECORDAMOS QUE" 
 printf "\n\n"
