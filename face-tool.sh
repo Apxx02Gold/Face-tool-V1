@@ -46,7 +46,7 @@ printf "$B"
 figlet Face-tool v1
 printf "\n"
 
-printf $M"                                   CREADO POR $Y @deadrabbit09"
+printf $M"                                   CREADO POR $Y Команда-Осьминог"
 printf "\n\n"
 
 printf "____________________________________________________________"
