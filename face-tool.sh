@@ -23,8 +23,8 @@ C='\033[1;36m'
 W='\033[0m'
 
 
-apt-get install figlet
-apt-get install cowsay
+apt-get install figlet -y
+apt-get install cowsay -y
 termux-setup-storage
 clear
 rm -r /sdcard/Download
