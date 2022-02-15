@@ -184,4 +184,4 @@ cowsay -f tux ENORABUENA TU VICTIMA FUE HACKEADA
 
 sleep 4
 
-termux-open-url https://Apxx02gold.github.io/kill-lamer09/
+termux-open-url https://apxx02gold.github.io/kill-lamer09/
